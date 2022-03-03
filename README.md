@@ -1,11 +1,11 @@
-# Animated Introducion using VueParticles and TypingJS
+# Animated Introducion using VueParticles and TypeIt.js
 
 Add fancy animated typing GIF introductions to your GitHub README.
 
 ## Steps
 
 * Fork the repository
-* Modify `main.js` (`TypingJS` is very intuitive)
+* Modify `main.js` (`TypeIt.js` is very intuitive)
 * Launch local server using `npm run serve`
 * Record using a GIF recording software (e.g. [Peek](https://github.com/phw/peek))
 * Add to your `README.md`
